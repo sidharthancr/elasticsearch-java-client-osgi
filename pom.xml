@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>com.elasticsearch</groupId>
+    <artifactId>elasticsearch-commons</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
+  </parent>
+
+  <groupId>elasticsearch-services</groupId>
+  <artifactId>com.elasticsearch.java.client</artifactId>
+  <packaging>eclipse-plugin</packaging>
+  <version>1.0.0-SNAPSHOT</version>
+  <name>com.elasticsearch.java.client Build</name>
+  
+</project> 
